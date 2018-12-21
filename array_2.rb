@@ -13,7 +13,7 @@ puts a
 puts c
 
 
-c = a.map {|m m*2}
+c = a.map {|m| m*2}
 puts a
 puts c
 
